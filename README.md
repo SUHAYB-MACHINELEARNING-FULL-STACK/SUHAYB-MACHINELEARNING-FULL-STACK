@@ -1,5 +1,5 @@
 <div align="center"><h1>Information</h1></div>
-<h2>Professional Programmer & Penetration Tester & (CISSP(Certified Information Systems Security Professional) - Later...)</h2>
+<h2>Professional Programmer & Penetration Tester --(CISSP(Certified Information Systems Security Professional) - Later...)--</h2>
 <div align="center">
   
 - SUHAYB ALJUHANI
